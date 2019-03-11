@@ -13,7 +13,8 @@ public class leap {
 			System.out.println("Year " + year + " is a leap year");
 		else
 
-			System.out.println("Year " + year + " is not a leap year so we have fewer days");
+			System.out.println("Year " + year + " is not a leap year");
+                        System.out.println(" so we have fewer days");
 
 	}
 }
